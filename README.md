@@ -1,4 +1,1 @@
-Hello RS School
-CV will be soon available
-
-Add some new information
+https://Smirnova22.github.io/rsschool-cv/cv
