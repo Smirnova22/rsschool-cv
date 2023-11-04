@@ -3,7 +3,7 @@
 *******
 ### My contact information:
 * Phone number: +359 885 195346
-* Email: smirnovaae@uahoo.com
+* Email: smirnovaae@yahoo.com
 * [LinkedIn](https://www.linkedin.com/in/smirnova-anastasia/)
 
 ##### My hard skills
@@ -29,7 +29,8 @@
 * Stepik
    + Web Development for Beginners: HTML and CSS (completed)
    + Layout trainer, Emmet plugin
-   + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* RS Schools 
+   + Course «JavaScript/Front-end. Stage 1» (in progress)
    *******
 #### Languages
 * English - Intermediate Level
