@@ -16,13 +16,11 @@
 4. Git
 5. NodeJS
 6. VS Code
-*********
 ##### My soft skills
 1. Team working
 2. Communication skills
 3. Empathy
 4. Goal-setting
-********
 #### Education
 * Moscow State University
    + Financial strategy
@@ -31,7 +29,6 @@
    + Layout trainer, Emmet plugin
 * RS Schools 
    + Course «JavaScript/Front-end. Stage 1» (in progress)
-   *******
 #### Languages
 * English - Intermediate Level
   + ![English Level](/result_2023.jpg)
