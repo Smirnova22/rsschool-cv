@@ -1,0 +1,17 @@
+.wrapper{
+    width: 1600px;
+}
+.section-one-title{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    color: blue;
+}
+.section-one-text{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color:rgb(166, 166, 238);
+}
